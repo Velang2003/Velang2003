@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 👨‍🎓 Student at **Nrupathunga University**, Bangalore  
-- 🌱 Currently learning: **UX Design by Google**, **Responsive Web Development in FreeCodeCamp**, **Python for Cybersecurity Professionals in Cybrary** and so on.
+- 🌱 Currently learning: **JavaScript in FreeCodeCamp**, **Python for Cybersecurity Professionals in Cybrary** and so on.
 - 🛠️ Building mini projects with **HTML**, **CSS**, **JavaScript**, **Firebase**. 
 - 💬 Ask me about: Python, HTML, CSS, JS, C, C#, JAVA, DBMS, UI/UX Design, Canva, Figma.
 - 📫 Reach me at: [velangabhay001@gmail.com ](mailto:velangabhay001@gmail.com)
